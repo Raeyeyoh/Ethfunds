@@ -1,0 +1,15 @@
+C:\Users\raeye\ETFunds\ETFunds.Application\bin\Debug\net10.0\ETFunds.Application.deps.json
+C:\Users\raeye\ETFunds\ETFunds.Application\bin\Debug\net10.0\ETFunds.Application.dll
+C:\Users\raeye\ETFunds\ETFunds.Application\bin\Debug\net10.0\ETFunds.Application.pdb
+C:\Users\raeye\ETFunds\ETFunds.Application\bin\Debug\net10.0\ETFunds.Domain.dll
+C:\Users\raeye\ETFunds\ETFunds.Application\bin\Debug\net10.0\ETFunds.Domain.pdb
+C:\Users\raeye\ETFunds\ETFunds.Application\obj\Debug\net10.0\ETFunds.Application.csproj.AssemblyReference.cache
+C:\Users\raeye\ETFunds\ETFunds.Application\obj\Debug\net10.0\ETFunds.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raeye\ETFunds\ETFunds.Application\obj\Debug\net10.0\ETFunds.Application.AssemblyInfoInputs.cache
+C:\Users\raeye\ETFunds\ETFunds.Application\obj\Debug\net10.0\ETFunds.Application.AssemblyInfo.cs
+C:\Users\raeye\ETFunds\ETFunds.Application\obj\Debug\net10.0\ETFunds.Application.csproj.CoreCompileInputs.cache
+C:\Users\raeye\ETFunds\ETFunds.Application\obj\Debug\net10.0\ETFunds..E0D56CC7.Up2Date
+C:\Users\raeye\ETFunds\ETFunds.Application\obj\Debug\net10.0\ETFunds.Application.dll
+C:\Users\raeye\ETFunds\ETFunds.Application\obj\Debug\net10.0\refint\ETFunds.Application.dll
+C:\Users\raeye\ETFunds\ETFunds.Application\obj\Debug\net10.0\ETFunds.Application.pdb
+C:\Users\raeye\ETFunds\ETFunds.Application\obj\Debug\net10.0\ref\ETFunds.Application.dll

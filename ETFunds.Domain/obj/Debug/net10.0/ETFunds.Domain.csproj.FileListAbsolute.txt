@@ -1,0 +1,11 @@
+C:\Users\raeye\ETFunds\ETFunds.Domain\bin\Debug\net10.0\ETFunds.Domain.deps.json
+C:\Users\raeye\ETFunds\ETFunds.Domain\bin\Debug\net10.0\ETFunds.Domain.dll
+C:\Users\raeye\ETFunds\ETFunds.Domain\bin\Debug\net10.0\ETFunds.Domain.pdb
+C:\Users\raeye\ETFunds\ETFunds.Domain\obj\Debug\net10.0\ETFunds.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raeye\ETFunds\ETFunds.Domain\obj\Debug\net10.0\ETFunds.Domain.AssemblyInfoInputs.cache
+C:\Users\raeye\ETFunds\ETFunds.Domain\obj\Debug\net10.0\ETFunds.Domain.AssemblyInfo.cs
+C:\Users\raeye\ETFunds\ETFunds.Domain\obj\Debug\net10.0\ETFunds.Domain.csproj.CoreCompileInputs.cache
+C:\Users\raeye\ETFunds\ETFunds.Domain\obj\Debug\net10.0\ETFunds.Domain.dll
+C:\Users\raeye\ETFunds\ETFunds.Domain\obj\Debug\net10.0\refint\ETFunds.Domain.dll
+C:\Users\raeye\ETFunds\ETFunds.Domain\obj\Debug\net10.0\ETFunds.Domain.pdb
+C:\Users\raeye\ETFunds\ETFunds.Domain\obj\Debug\net10.0\ref\ETFunds.Domain.dll

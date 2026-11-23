@@ -1,0 +1,6 @@
+@ET_funds_HostAddress = http://localhost:5143
+
+GET {{ET_funds_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

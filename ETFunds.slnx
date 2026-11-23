@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ETFunds.Infrastructure/ETFunds.Infrastructure.csproj" />
+  <Project Path="ETFunds.Api/ETFunds.Api.csproj" />
+  <Project Path="ETFunds.Application/ETFunds.Application.csproj" />
+  <Project Path="ETFunds.Domain/ETFunds.Domain.csproj" />
+  
+</Solution>
